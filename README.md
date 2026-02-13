@@ -13,4 +13,5 @@ Esoh, Hong Zhang, Isabelle Schrauwen, Ulrich Mueller, and Suzanne M Leal
 ### Main Figures
 ##### Figure 3: PCA and ADMIXTURE plot
 
+###### &emsp;[Figure 3A | Principal Component Analysis (PCA) plot based on sub-Saharan African populations.](https://raw.githack.com/.html
 
