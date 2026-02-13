@@ -1,9 +1,4 @@
-# Hearing_Impairment_in_Cameroon
-WES Project: Hearing Impairment in Cameroon 
-
-Exome sequencing identifies known and candidate genes in hearing impairment in Cameroon
-
-### This repository contains online materials from our most recent study.
+### This repository contains online materials from our most recent study about hearing impairment.
 ####
 ##### - Citation:
 ***Exome sequencing identifies known and candidate genes in hearing impairment in Cameroon***.\
