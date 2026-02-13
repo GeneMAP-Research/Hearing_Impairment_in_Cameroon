@@ -12,5 +12,5 @@ Esoh, Hong Zhang, Isabelle Schrauwen, Ulrich Mueller, and Suzanne M Leal
 
 ### Main Figures
 ##### Main Figure 3
-###### &emsp;[Figure 3A | Principal Component Analysis (PCA) plot based on sub-Saharan African populations.](https://raw.githack.com/GeneMAP-Research/Hearing_Impairment_in_Cameroon/blob/main/Figures/Main_Figure_3A.html)
+###### &emsp;[Figure 3A | Principal Component Analysis (PCA) plot based on sub-Saharan African populations.](https://raw.githack.com/GeneMAP-Research/Hearing_Impairment_in_Cameroon/main/Figures/Main_Figure_3A.html)
 
