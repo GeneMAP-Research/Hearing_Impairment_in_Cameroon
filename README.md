@@ -13,5 +13,5 @@ Esoh, Hong Zhang, Isabelle Schrauwen, Ulrich Mueller, and Suzanne M Leal
 ### Main Figures
 ##### Figure 3: PCA and ADMIXTURE plot
 
-###### &emsp;[Figure 3A | Principal Component Analysis (PCA) plot based on sub-Saharan African populations.](https://raw.githack.com/.html
+###### &emsp;[Figure 3A | Principal Component Analysis (PCA) plot based on sub-Saharan African populations.](https://raw.githack.com/GeneMAP-Research/Hearing_Impairment_in_Cameroon/blob/main/Figures/Main_Figure_3A.html
 
