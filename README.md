@@ -14,7 +14,7 @@ Esoh, Hong Zhang, Isabelle Schrauwen, Ulrich Mueller, and Suzanne M Leal
 ##### Main Figure 3
 ###### &emsp;[Figure 3A | Principal Component Analysis (PCA) plot based on sub-Saharan African populations.](https://raw.githack.com/GeneMAP-Research/Hearing_Impairment_in_Cameroon/main/Figures/Main_Figure_3A_PCA_plots.html)
 
-##### Python script for PCA plots:
+##### Python script for PCA plots: \
 ###### python3 scripts/bokeh_pca_plot_PC9toPC10_python3.py -i Tables/Cameroon_HI_DB.pca.evec -o Main_Figure_3A -p pattern.csv
 
 
@@ -22,6 +22,6 @@ Esoh, Hong Zhang, Isabelle Schrauwen, Ulrich Mueller, and Suzanne M Leal
 
 ###### &emsp;[Figure 3B | ADMIXTURE plot based on sub-Saharan African populations (top).](https://raw.githack.com/GeneMAP-Research/Hearing_Impairment_in_Cameroon/main/Figures/Main_Figure_3B-Target.pdf)
 
-##### PONG script for ADMIXTURE plots:
+##### PONG script for ADMIXTURE plots: \
 ###### pong -m Tables/Qfilemap_4.txt -n Tables/pop_order.txt -i Tables/ind2pop.txt -p $RANDOM
 
